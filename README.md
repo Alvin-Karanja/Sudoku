@@ -18,7 +18,7 @@
 ## Install
 
 ```sh
-Run in Main.java in Intellij IDEA
+Run Main.java
 ```
 
 ## Usage
